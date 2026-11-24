@@ -156,5 +156,4 @@ This project is licensed under the MIT License.
 
 **Ayush Gupta**
 
-- GitHub: https://github.com/ayushgupta1123
-- LinkedIn: Add your LinkedIn profile here
+- GitHub: https://github.com/CyferAnuj
