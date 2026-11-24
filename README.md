@@ -52,7 +52,7 @@ Multi_agent_research_system/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ayushgupta1123/Multi_agent_research_system.git
+git clone https://github.com/CyferAnuj/Multi_agent_research_system.git
 cd Multi_agent_research_system
 ```
 
@@ -87,7 +87,6 @@ Create a `.env` file in the project root.
 ```env
 GROQ_API_KEY=your_groq_api_key
 TAVILY_API_KEY=your_tavily_api_key
-OPENAI_API_KEY=your_openai_api_key
 ```
 
 ---
